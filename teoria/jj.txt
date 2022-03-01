@@ -1,0 +1,26 @@
+Java Script - avançado
+
+Aula 1
+
+let e const
+
+Não a var para declarar variavel
+pela suas limitaçoes, umas delas são:
+
+escopo de função
+limita a uma funçao, se ela estiver declarada em qualquer bloco ela pode 
+ser referenciada do lado de fora
+
+
+Diferença entre let e const
+
+variavel const nao pode ser reatribuida mas o valores dentro 
+dela pode ser manipulados
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Aula 2
+
+Arrow functions
+
+Sao expressoes de funçao com sintaxe mais curta
